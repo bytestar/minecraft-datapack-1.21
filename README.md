@@ -19,7 +19,7 @@ Unzip resourcepacks-demo.zip in **%appdata%\.minecraft\resourcepacks\\**
 
 - **Customized sword model**
 /give @s minecraft:diamond_sword[item_name="KingSword",minecraft:custom_model_data=2,attribute_modifiers=[{id:"attack_damage",type:"generic.attack_damage",amount:85,operation:"add_value"}]] 1
-This sword model is created by BlockBench
+  - This sword model is created by BlockBench
 
 - **Reference**
   - https://www.youtube.com/watch?v=dndzP97UL4M
